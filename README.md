@@ -1,8 +1,9 @@
 # UAS_BIG_DATA_KELOMPOK_2_TI_21_C_1
 <br>
 Proyek ini merupakan analisis harga ayam ras/boiler di berbagai pasar di Jakarta untuk tahun 2022-2023. Menggunakan metode Linear Regression, kami melakukan prediksi harga berdasarkan beberapa fitur yang signifikan. Hasil analisis mencakup koefisien model, statistik model, tren harga di berbagai pasar, matriks korelasi, selisih harga antar pasar, serta distribusi harga. <br> 
-
-Ditujukan untuk memenuhi tugas UAS Big Data 
+<br>
+Ditujukan untuk memenuhi tugas UAS mata kuliah Big Data <br>
+Dosen Pengampu : Dr. Ir. Ananto Tri Sasongko, M.Sc
 <br>
 <br> 
 Anggota kelompok ini terdiri dari : <br>
